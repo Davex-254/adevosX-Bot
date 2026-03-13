@@ -1,98 +1,134 @@
 <p align="center">
-  <img src="https://files.catbox.moe/vctxdl.jpg" alt="Dave-X" width="300"/>
+  <img src="https://files.catbox.moe/vctxdl.jpg" alt="ADEVOS-X" width="300"/>
 </p>
 
 <p align="center">
   <a href="https://davexx-sessionpair.onrender.com">
-    <img src="https://img.shields.io/badge/Pair_Site_One-Get_Code-purple?style=for-the-badge&logo=whatsapp" alt="Pair Site One" width="200">
+    <img src="https://img.shields.io/badge/PAIR_CODE-Get_Session-FF6B6B?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Pair Code" width="200">
   </a>
 
-  <a href="https://issahxdave-session.onrender.com">
-    <img src="https://img.shields.io/badge/Pair_Site_Two-Get_Code-blue?style=for-the-badge&logo=whatsapp" alt="Pair Site Two" width="200">
+  <a href="https://github.com/adevosxtech/adevosX-Bot/fork">
+    <img src="https://img.shields.io/badge/FORK-ADEVOS--X-00C851?style=for-the-badge&logo=github&logoColor=white" alt="Fork ADEVOS-X BOT" width="200">
   </a>
 
-  <a href="https://github.com/Davex-254/DAVE-X/fork">
-    <img src="https://img.shields.io/badge/Fork-DAVE--X-blue?style=for-the-badge&logo=github" alt="Fork DAVE-X" width="200">
-  </a>
-
-  <a href="https://github.com/Davex-254/DAVE-X/archive/refs/heads/main.zip">
-    <img src="https://img.shields.io/badge/Download-Zip-green?style=for-the-badge&logo=download" alt="Direct Download ZIP" width="200">
+  <a href="https://github.com/adevosxtech/adevosX-Bot/archive/refs/heads/main.zip">
+    <img src="https://img.shields.io/badge/DOWNLOAD-Zip-FFA500?style=for-the-badge&logo=download&logoColor=white" alt="Direct Download ZIP" width="200">
   </a>
 </p>
 
-## 📡 DEPLOYMENT SITES
+## 🚀 DEPLOYMENT SITES
 
-<p align="center">Deploy your <strong>DAVE-X Bot</strong> with one click on your favorite hosting platforms.</p>
+<p align="center">Deploy your <strong>ADEVOS-X Bot</strong> with one click on your favorite hosting platforms.</p>
 
 <div align="center">
   <table>
     <tr>
-      <!-- Heroku -->
-      <td><a href="https://dashboard.heroku.com/new?template=https://github.com/Davex-254/DAVE-X" target="_blank">
-  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=rocket&logoColor=white"/>
-</a></td>
-      <!-- Replit -->
-      <td><a href="https://replit.com/github/Davex-254/DAVE-X" target="_blank"><img src="https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=white&labelColor=000000"/></a></td>
+      <td align="center" width="250">
+        <a href="https://dashboard.heroku.com/new?template=https://github.com/adevosxtech/adevosX-Bot" target="_blank">
+          <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&labelColor=000000"/>
+        </a>
+      </td>
+      <td align="center" width="250">
+        <a href="https://replit.com/github/adevosxtech/adevosX-Bot" target="_blank">
+          <img src="https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=white&labelColor=000000"/>
+        </a>
+      </td>
     </tr>
     <tr>
-      <!-- Koyeb -->
-      <td><a href="https://app.koyeb.com/deploy?type=git&repository=github.com/Davex-254/DAVE-X" target="_blank"><img src="https://img.shields.io/badge/Koyeb-FF009D?style=for-the-badge&logo=koyeb&logoColor=white&labelColor=000000"/></a></td>
-      <!-- Railway -->
-      <td><a href="https://railway.app/new/template?template=https://github.com/Davex-254/DAVE-X" target="_blank"><img src="https://img.shields.io/badge/Railway-FF8700?style=for-the-badge&logo=railway&logoColor=white&labelColor=000000"/></a></td>
+      <td align="center" width="250">
+        <a href="https://app.koyeb.com/deploy?type=git&repository=github.com/adevosxtech/adevosX-Bot" target="_blank">
+          <img src="https://img.shields.io/badge/Koyeb-121212?style=for-the-badge&logo=koyeb&logoColor=00FF9D"/>
+        </a>
+      </td>
+      <td align="center" width="250">
+        <a href="https://railway.app/new/template?template=https://github.com/adevosxtech/adevosX-Bot" target="_blank">
+          <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=8A2BE2"/>
+        </a>
+      </td>
     </tr>
     <tr>
-      <!-- Render -->
-      <td><a href="https://render.com/deploy?repo=https://github.com/Davex-254/DAVE-X" target="_blank"><img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white&labelColor=000000&color=007FFF"/></a></td>
-      <!-- Netlify -->
-      <td><a href="https://app.netlify.com/start/deploy?repository=https://github.com/Davex-254/DAVE-X" target="_blank"><img src="https://img.shields.io/badge/Netlify-CC00FF?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=000000"/></a></td>
+      <td align="center" width="250">
+        <a href="https://render.com/deploy?repo=https://github.com/adevosxtech/adevosX-Bot" target="_blank">
+          <img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=00FFAA"/>
+        </a>
+      </td>
+      <td align="center" width="250">
+        <a href="https://app.netlify.com/start/deploy?repository=https://github.com/adevosxtech/adevosX-Bot" target="_blank">
+          <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white&labelColor=000000"/>
+        </a>
+      </td>
     </tr>
     <tr>
-      <!-- Katabump (spanning both columns) -->
-      <td colspan="2" align="center"><a href="https://dashboard.katabump.com/auth/login#ce51a9" target="_blank"><img src="https://img.shields.io/badge/Katabump-FF6B6B?style=for-the-badge&logo=cloudflare&logoColor=white"/></a></td>
+      <td colspan="2" align="center">
+        <a href="https://dashboard.katabump.com/auth/login#ce51a9" target="_blank">
+          <img src="https://img.shields.io/badge/Katabump-9146FF?style=for-the-badge&logo=cloudflare&logoColor=white" width="400"/>
+        </a>
+      </td>
     </tr>
   </table>
 </div>
 
-## 🎥 TUTORIAL
+## 📹 TUTORIAL
 
 <p align="center">
   <a href="https://youtu.be/wJKMV0BSqpE?si=6Y11rPD0t2ykoxB8" target="_blank">
-    <img src="https://img.shields.io/badge/Watch-Tutorial-red?style=for-the-badge&logo=youtube&logoColor=white" width="200">
+    <img src="https://img.shields.io/badge/WATCH_TUTORIAL-FF0000?style=for-the-badge&logo=youtube&logoColor=white" width="250">
   </a>
 </p>
 
 <p align="center">
-  <strong>How to deploy DAVE-X on panel in 2026</strong><br>
-  Step-by-step video guide to help you get your bot running smoothly.
+  <strong>⚡ How to deploy ADEVOS-X on panel in 2026 ⚡</strong><br>
+  Step-by-step video guide to get your bot running in minutes.
 </p>
 
 <p align="center">
   <a href="https://youtu.be/wJKMV0BSqpE?si=6Y11rPD0t2ykoxB8" target="_blank">
-    <img src="https://img.shields.io/badge/▶️_Click_Here_to_Watch-FF0000?style=for-the-badge&logo=youtube&logoColor=white" width="300">
+    <img src="https://img.shields.io/badge/▶️_CLICK_HERE_TO_WATCH-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=282828" width="350">
   </a>
 </p>
 
 ---
 
-### 👨‍💻 Author: **Dave Tech**
+## 👨‍💻 ABOUT
+
+<table>
+  <tr>
+    <td align="center"><strong>Author</strong></td>
+    <td><strong>Dave Tech</strong></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Repo</strong></td>
+    <td><strong>adevosX-Bot</strong></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Version</strong></td>
+    <td><strong>1.4.1</strong></td>
+  </tr>
+</table>
 
 > Built with passion by Dave Tech. Enjoying the bot? Check out my movies site for entertainment!  
-> 🎬 **Visit:** [**DAVEXMOVIES - Stream Movies & TV Shows**](https://www.davex-moviezone.zone.id)
+> 🎬 **Visit:** [**DAVEXMOVIES**](https://www.davex-moviezone.zone.id)
 
-## 📌 Important Notes
+## 📌 IMPORTANT NOTES
 
-- On free panels set the session ID on .env
-- Incase bot not responding change session ID or redeploy 
-- Check the tutorial video above for detailed deployment guidance
+- On free panels, set the session ID in `.env` file
+- If bot not responding, change session ID or redeploy
+- Watch the tutorial above for detailed deployment guidance
 
-## ⭐ Support
+## ⭐ SUPPORT
 
 If you find this bot useful, please consider:
-- Starring the repository ⭐
-- Forking for your own use
-- Sharing with others
-- Watching the tutorial and leaving a comment
+- ⭐ Starring the repository
+- 🔱 Forking for your own use
+- 📢 Sharing with others
+- 📺 Watching the tutorial and leaving a comment
 
 ---
 
-**© 2026 Dave Tech. All rights reserved.**
+<p align="center">
+  <img src="https://img.shields.io/badge/ADEVOS--X-WhatsApp_Bot-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</p>
+
+<p align="center">
+  <strong>© 2026 Dave Tech. All rights reserved.</strong>
+</p>
